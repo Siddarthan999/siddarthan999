@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack wizard: crafting slick UIs and brewing up powerful backends. Let’s make the web more magical! 
+A computer science enthusiast who enjoys coding and debugging.
 
 
 ## 🌐 Socials:
