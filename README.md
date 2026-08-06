@@ -1,6 +1,5 @@
 # 💫 About Me:
-A computer science enthusiast who enjoys coding and debugging.
-
+A software engineer who enjoys coding and debugging.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddarthan-n-118635224) 
