@@ -84,17 +84,17 @@ A software engineer who enjoys coding and debugging.
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=siddarthan999&theme=dark&hide_border=true" width="70%" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddarthan999/siddarthan999/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddarthan999/siddarthan999/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/siddarthan999/siddarthan999/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=siddarthan999&theme=dark&hide_border=true" width="70%" />
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=siddarthan999&label=Profile+views&color=1a1a1a&style=flat" />
 
