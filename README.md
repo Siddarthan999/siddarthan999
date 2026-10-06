@@ -86,7 +86,7 @@ A software engineer who enjoys coding and debugging.
 
 <!-- <img src="https://streak-stats.demolab.com/?user=siddarthan999&theme=dark&hide_border=true" width="70%" /> -->
 <!-- Replacing the above URL with a Vercel-deployed URL, since the official repo link has outages at times. -> https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=siddarthan999&theme=github-dark" width="70%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=siddarthan999&theme=github-dark/" width="70%"/>
 
 <br>
 
